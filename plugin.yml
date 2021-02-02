@@ -1,0 +1,16 @@
+main: com.github.adrianacandebat.SuperKits
+version: 1.0
+name: SuperKits
+author: [Adrikikicp]
+
+api-version: "1.13"
+
+softdepend: [PlaceholderAPI]
+
+commands:
+
+superkits:
+
+description: Main Command of Superkits
+
+aliases: [sk, superk, skits, ski ]
